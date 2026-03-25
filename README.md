@@ -18,7 +18,7 @@ These insights can support data-driven marketing decisions aimed at improving cu
 
 
 
-\## 🎯 Business Problem
+## 🎯 Business Problem
 
 
 
@@ -36,7 +36,7 @@ The objective of this project is to identify groups of similar customers based o
 
 
 
-\## 📊 Dataset
+## 📊 Dataset
 
 
 
@@ -57,7 +57,7 @@ The data was used to identify behavioral patterns and segment customers into dis
 
 
 
-\## ⚙️ Methodology
+## ⚙️ Methodology
 
 
 
@@ -74,7 +74,7 @@ The project follows these main steps:
 
 
 
-\## 📈 Results \& Insights
+## 📈 Results \& Insights
 
 
 
@@ -96,7 +96,7 @@ Balanced behavior
 
 
 
-\### Key Insight
+### Key Insight
 
 
 
@@ -104,7 +104,7 @@ High-value customers present the highest churn risk, indicating a strong opportu
 
 
 
-\## 💼 Business Recommendations
+## 💼 Business Recommendations
 
 
 
@@ -114,7 +114,7 @@ High-value customers present the highest churn risk, indicating a strong opportu
 
 
 
-\## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 
 
@@ -127,7 +127,7 @@ High-value customers present the highest churn risk, indicating a strong opportu
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -147,31 +147,31 @@ customer-segmentation-ml/
 
 
 
-\## ⚙️ How to Run the Project
+## ⚙️ How to Run the Project
 
 
 
-\#### 1. Create a virtual environment
+#### 1. Create a virtual environment
 
 conda create --name customerseg python=3.13
 
-\#### 2. Activate the environment
+#### 2. Activate the environment
 
 conda activate customerseg
 
-\#### 3. Install dependencies
+#### 3. Install dependencies
 
 conda install pip
 
 pip install -r requirements.txt
 
-\#### 4. Run Jupyter Notebook
+#### 4. Run Jupyter Notebook
 
 jupyter notebook
 
 
 
-\## 📌 Conclusion
+## 📌 Conclusion
 
 
 
