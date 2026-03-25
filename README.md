@@ -1,8 +1,8 @@
-\# Customer Segmentation Using Unsupervised Learning
+# Customer Segmentation Using Unsupervised Learning
 
 
 
-\## 📊 Executive Summary
+## 📊 Executive Summary
 
 
 
